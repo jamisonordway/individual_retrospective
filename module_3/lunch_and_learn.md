@@ -1,4 +1,4 @@
-# Sweater Weather Individual Retrospective
+# Lunch and Learn Individual Retrospective
 
 ## Technical Takeaways
 

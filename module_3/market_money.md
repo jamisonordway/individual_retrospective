@@ -1,4 +1,4 @@
-# Rails Engine Individual Retrospective
+# Market Money Individual Retrospective
 
 ## Technical Takeaways
 
@@ -8,7 +8,7 @@
 
 ## Collaboration Takeaways
 
-#### Reflect on your process for building out the Rails Engine API endpoints. In what ways would this process be different if you were building API endpoints in parallel to a front end developer writing code to consume said API?
+#### Reflect on your process for building out the Market Money API endpoints. In what ways would this process be different if you were building API endpoints in parallel to a front end developer writing code to consume said API?
 
 ## Misc.
 
