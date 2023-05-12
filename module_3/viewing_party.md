@@ -6,7 +6,7 @@ This takes practice. The prompts below are meant to mimic technical and behavior
 
 ### Instructions
 
-* Copy this document and paste into a new public [gist](https://gist.github.com/).
+* Copy this document and paste into a new public [gist](https://gist.github.com/). For formatting purposes, make sure the file extension is `.md`.
 * Take 20 - 40 minutes to add your reflections to these questions. Do your best to answer as if you were responding to an interviewer!
 * Submit the link to your public gist using [this form](https://forms.gle/JXwiU9HdWxZoVuuG7) before Monday at 9:00 AM MT.
 
