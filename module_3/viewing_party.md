@@ -1,3 +1,5 @@
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&q=85&fm=jpg" width="500" height="250">
+
 # Viewing Party Personal Retrospective
 
 The projects you complete at Turing will help you build proficiency in many skills you will need on the job. They're are also extremely useful experiences to discuss in networking conversations and job interviews! Students and alumni who can confidently speak to their specific technical contributions and teamwork processes tend to be the most successful in the job hunt.
